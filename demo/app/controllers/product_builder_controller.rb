@@ -7,7 +7,7 @@ class ProductBuilderController < ApplicationController
     person = Testing.new
     person.matchingname = "Mathcing Value"
     puts "Samba Module is ",person.matchingname
-    puts "Just push one change commit to master......."
+    puts "Just push one change commit to master.......Add new Message"
   end
 
   def time
